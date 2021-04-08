@@ -1,0 +1,64 @@
+body{
+    background-image: url(Anh/EnYxnWHW4AUyULU.jfif);
+    font-family: 'Ubuntu', sans-serif;
+}
+#khung{
+    width: 700px;
+    height: 600px;
+    margin: auto;
+    margin-top: 100px;
+    background-color: white;
+    border-radius: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.thanhphan{
+    width: 500px;
+}
+.can_giua{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.can_ben{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.o{
+    height: 100px;
+}
+.link{
+    width: 230px;
+    height: 80px;
+    border-radius: 16px;
+    background-color: springgreen;
+}
+.dangky{
+    width: 500px;
+    height: 50px;
+    border-radius: 16px;
+}
+#fb{
+    border-color:black;
+    
+    color: white;
+    background-color: blue;
+    border-radius: 16px;
+    border: 1px solid;
+    box-shadow: 1px 2px #888888;
+    border-color: blue;
+    text-decoration: none;
+}
+#gg{
+    border-color:black;
+    color: black;
+    background-color: white;
+    border: 1px solid;
+    box-shadow: 1px 2px #888888;
+    text-decoration: none;
+}
+a{
+    color: gray;
+}
